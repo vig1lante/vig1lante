@@ -17,7 +17,7 @@
 </div>
 
 <h1 align="center">My contacts📞</h1>
-<div id="badges">
+<div align="center" id="badges">
   <a href="https://t.me/vlad_vigilante">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
@@ -26,6 +26,13 @@
   </a>
 </div>
 
-<h1 align="center">My Codeforces Stats🏆</h1>
+<div align="center" id="visit_counter">
+  <img src="https://komarev.com/ghpvc/?username=guf2019&style=flat-square&color=blue" alt=""/>
+</div> 
+
+
+### My Codeforces Stats
+
 ![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=Vlad_GuF&theme=2)
+
 
