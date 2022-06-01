@@ -16,6 +16,16 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge"/>
 </div>
 
+<h1 align="center">My contacts📞</h1>
+<div id="badges">
+  <a href="https://t.me/vlad_vigilante">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="https://twitter.com/VKorovnikov?t=0S3WP1PET98Shsa7UwEXAA&s=09">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
 <h1 align="center">My Codeforces Stats🏆</h1>
 ![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=Vlad_GuF&theme=2)
 
